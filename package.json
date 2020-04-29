@@ -1,0 +1,83 @@
+{
+    "name": "ionic-developer-std",
+    "displayName": "Essentials Extensions for Ionic Developers, STD.",
+    "description": "The Essentials Extensions for Ionic Developers, standard variant.",
+    "icon": "img/ionicessentials.png",
+    "galleryBanner": {
+        "color": "#53595e",
+        "theme": "dark"
+    },
+    "license": "LICENSE.md",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Gydunhn/Ionic-Developer-STD.git"
+    },
+    "keywords": [
+        "VSC",
+        "VSCode",
+        "Visual Studio",
+        "VSC Essentials",
+        "Javascript",
+        "Lint",
+        "ESLint",
+        "jshint",
+        "npm",
+        "Intellisense",
+        "Visual Studio IntelliCode",
+        "IntelliCode",
+        "ES6",
+        "Snippets",
+        "JavaScript (ES6) code snippets",
+        "Javascript-Essentials",
+        "TypeScript",
+        "TSLint",
+        "Hero",
+        "TypeScript Hero",
+        "TypeScript Importer",
+        "Typescript-Essentials",
+        "Angular",
+        "Angular Language Service",
+        "inline",
+        "angular2-inline",
+        "Nx",
+        "Console",
+        "Nx Console",
+        "Debugger",
+        "Firefox",
+        "Debugger for Firefox",
+        "Edge",
+        "Debugger for Microsoft Edge",
+        "Chrome",
+        "Debugger for Chrome",
+        "Essentials",
+        "Read Time",
+        "Peacock",
+        "Sonar",
+        "SonarLint",
+        "ngRx",
+        "RxJS",
+        "Flex",
+        "Flex Layout",
+        "Ionic",
+        "Developer",
+        "Gydunhn"
+    ],
+    "version": "0.0.0",
+    "publisher": "Gydunhn",
+    "engines": {
+        "vscode": "^1.44.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [
+        "johnpapa.read-time",
+        "Gydunhn.vsc-essentials",
+        "Gydunhn.web-design-essentials",
+        "Gydunhn.ionicangular-essentials",
+        "SonarSource.sonarlint-vscode",
+        "Mikael.Angular-BeastCode",
+        "johnpapa.vscode-peacock",
+        "Gydunhn.vsc-essentials-themes"
+    ]
+}
